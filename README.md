@@ -1,3 +1,12 @@
+###Update 2015-12-23:
+
+**As i currently have no time to work on this project anymore and telegram released its own [bot-api](https://core.telegram.org/bots), there won't be many new updates to this project in the future. I will try to go through all currently open issues so there is nothing left in the issue section anymore (even if i need to close some things with `wontfix`).  
+If someone wants to takeover this project i am willing to give him push-rights or link to his fork on github/packagist.**
+
+**If you want to port your project to the new bot-api take a look at the [unofficial php-sdk](https://github.com/irazasyed/telegram-bot-sdk).**
+
+<hr />
+
 zyberspace/telegram-cli-client
 ==============================
 php-client for [telegram-cli](https://github.com/vysheng/tg/)
@@ -5,7 +14,6 @@ php-client for [telegram-cli](https://github.com/vysheng/tg/)
 [![Packagist](https://img.shields.io/packagist/v/zyberspace/telegram-cli-client.svg)](https://packagist.org/packages/zyberspace/telegram-cli-client)
 [![Codacy](https://www.codacy.com/project/badge/4175a9bbf88547cdbd94cf57c457068d)](https://www.codacy.com/app/zyberspace/php-telegram-cli-client)
 [![License](https://img.shields.io/github/license/zyberspace/php-telegram-cli-client.svg)](https://www.mozilla.org/MPL/2.0/)
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9FC7BR6XPXFLE)
 
 Requirements
 ------------
